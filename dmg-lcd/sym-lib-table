@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gmd-lcd")(type "KiCad")(uri "${KIPRJMOD}/gmd-lcd.kicad_sym")(options "")(descr ""))
+)

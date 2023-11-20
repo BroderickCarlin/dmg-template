@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dmg-lcd")(type "KiCad")(uri "${KIPRJMOD}/dmg-lcd.pretty")(options "")(descr ""))
+)
